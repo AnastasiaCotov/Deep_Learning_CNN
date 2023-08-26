@@ -1,5 +1,5 @@
 # Deep_Learning_CNN
-The aim of this project is to train the given images with the best possible model and predict the test images with high mean accuracy. The images are divided into fourteen categories. Here, we develop three models in order to cope with the problem: \n
+The aim of this project is to train the given images with the best possible model and predict the test images with high mean accuracy. The images are divided into fourteen categories. Here, we develop three models in order to cope with the problem:
 1. OurCNN
 2. Fine-tuning with vgg16
 3. Fine-tuning with ResNet50.
